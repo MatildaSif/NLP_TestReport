@@ -1,4 +1,4 @@
-# RQ?
+# NLP-exam-prep-assignment
 
 ## Table of Contents
 1. [Project Description](#description)
@@ -9,12 +9,12 @@
 
 
 ## Project Description
-This script investigates a dataset of informally written Reddit comments, and loads a Hugging Face sarcasm classification model (helinivan/english-sarcasm-detector) that will be applied to the text.
+This script investigates a dataset of informally written Reddit comments, and loads a Hugging Face sarcasm classification model (helinivan/english-sarcasm-detector) that will be applied to the text. The data is not stored in this repository due to it's size but instructions for downloading the data can be found in point 4. #data in this ReadMe file.
 
 
 ## Repository Structure
 ```
-Assignment05/
+NLP_TestReport/
 │ 
 ├── data/
 │   └ train-balanced-sarcasm.csv
@@ -54,7 +54,7 @@ The dataset comes from a Kaggle dataset called Sarcasm on Reddit (Sarcasm on Red
 
 The final structure will appear like this:
 ```
-Project/
+NLP_TestReport/
 │ 
 ├── data/
 │   └ train-balanced-sarcasm.csv
